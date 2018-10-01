@@ -1,0 +1,18 @@
+.secondColMainDiv{
+    margin-top: 3px;
+}
+.secondFirstDiv{
+    display: flex;
+    flex-direction: row;
+}
+.secondSecondDiv{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+}
+.lastNameStyle{
+    margin-left: 5px;
+}
+.phoneNumberStyle{
+    margin-left: 5px;
+}

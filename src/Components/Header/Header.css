@@ -1,0 +1,9 @@
+.headerDiv{
+    background-color:#1e234c;
+    padding: 5px;
+    width: 100%;
+    position: sticky;
+    height: auto;
+    top: 0;
+    z-index: 1;
+}

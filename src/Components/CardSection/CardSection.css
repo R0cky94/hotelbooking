@@ -1,0 +1,22 @@
+.cardSectionDivStyle{
+    border-bottom : 1px solid #455c81;
+    height: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 3px;
+    padding: 4px;
+}
+.cardImageStyle{
+    height: 200px;
+    width: 300px;
+}
+@media only screen and (max-width: 425px) {
+    .cardSectionDivStyle{
+        margin: 10px;
+    }
+}
+.orange{
+}
+.apple{
+
+}

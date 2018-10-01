@@ -1,0 +1,37 @@
+.cardMainDiv{
+    background-color: #F0EFEF;
+    width: available;
+    height: 200px;
+    padding: 8px;
+}
+.cardSecondDiv{
+    display: block;
+    justify-content: space-between;
+}
+.cardButtonStyle{
+    margin-top: 100px;
+}
+.cardCostStyle{
+    font-weight: bold;
+    font-size: 17px;
+}
+.cardTypeStyle{
+    font-weight: bolder;
+    font-size: 15px;
+}
+.cardFirstCol{
+    padding: 10px;
+}
+.cardSecondCol{
+    margin-top: 8px;
+    padding-top: 15px;
+}
+.cardFirstDiv{
+    margin: 10px;
+}
+@media only screen and (max-width: 425px) {
+    .cardButtonStyle{
+        margin-top: 30px;
+        float: right;
+    }
+}

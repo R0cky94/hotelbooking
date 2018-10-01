@@ -1,0 +1,24 @@
+.thirdColMainDiv{
+    margin-top: 3px;
+}
+.thirdColFirstDiv{
+    display: flex;
+    flex-direction: row;
+}
+.thirdDivSelect{
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+}
+.thirdCheckOutDiv{
+    margin-left: 5px;
+}
+.thirdColSecondDiv{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5px;
+    position: sticky;
+}
+.thirdColButton{
+    margin-left: 6px;
+}

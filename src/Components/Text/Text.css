@@ -1,0 +1,11 @@
+.textStyle{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 103px;
+    color: white;
+    position: sticky;
+    top: 0;
+}
+.textDivStyle{
+    background-color: #364671;
+}

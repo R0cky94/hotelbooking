@@ -1,0 +1,11 @@
+.dateSelectStyle{
+    width: 80px;
+    height: 26px;
+    font-size: 13px;
+    border-radius: 2px;
+    background-color: #364671;
+    border: none;
+    color: rgba(20, 104, 174, 0.04);
+    text-align: center;
+    font-family: FontAwesome;
+}
